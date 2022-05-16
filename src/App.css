@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+  display: flex;
+  background: #282c34;
+  min-height: 100vh;
+  min-width: 100vh;
+}
+.toolbar {
+  flex-grow: 1;
+  display: flex;
+  justify-content: space-between;
+}
+.logo {
+  width: 150px;
+  height: 50px;
+}
+
+.maintitle {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+.call {
+  margin: 1vh;
+}
+.endCall {
+  margin: 1vh;
+  background-color: red;
+}
+.status {
+  color: 'white'; font-family: '1.3em'
+}
