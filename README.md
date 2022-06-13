@@ -1,4 +1,4 @@
-# Getting started with Click-to-Call Demo App in React
+# Getting started with engage-rtc-web-client-audiovideo-demo-app-reactjs
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Scripts to run the application
