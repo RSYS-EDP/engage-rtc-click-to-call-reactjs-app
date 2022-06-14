@@ -17,7 +17,7 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ### `update the configuration`
-Update the configuration in engageDigitalClickToCallConfigration.js with proper values. It has the following properties.
+Update the configuration in src/engageDigitalClickToCallConfigration.js with proper values. It has the following properties.
 - **domain:** Engage Digital RTC domain name. Get this domain name from Engage Platform Admin. In this demo you can use the publicly hosted **rtc.engagedigital.ai**
 - **callToNum:** The number to dial to. It should be a proper service number. Creating the service and assigning it to a number can be done through ESMP-UI.
 	 In this demo, you can use the number 9070707120 which is available in publicly hosted ESMP portal (https://portal.engagedigital.ai)
